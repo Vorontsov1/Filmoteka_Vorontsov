@@ -2,66 +2,88 @@
   {
     "name": "Alekhandro_Lago",
     "foto_url": "../images/Alekhandro_Lago.jpg",
-    "github": "https://github.com/Alekhandro24"
+    "github": "https://github.com/Alekhandro24",
+    "telegramm": "#",
+    "linkidin": "#"
   },
 
   {
     "name": "Alla_Yukhymenko",
     "foto_url": "../images/Alla_Yukhymenko.jpeg",
-    "github": "https://github.com/AllaYukhym"
+    "github": "https://github.com/AllaYukhym",
+    "telegramm": "#",
+    "linkidin": "#"
   },
 
   {
     "name": "Arthur_S",
     "foto_url": "../images/Arthur_S.jpg",
-    "github": "https://github.com/Arthurosh"
+    "github": "https://github.com/Arthurosh",
+    "telegramm": "#",
+    "linkidin": "#"
   },
 
   {
     "name": "Dima_Viatkovskiy",
     "foto_url": "../images/Dima_Viatkovskiy.jpg",
-    "github": "https://github.com/dima2605"
+    "github": "https://github.com/dima2605",
+    "telegramm": "#",
+    "linkidin": "#"
   },
 
   {
     "name": "Dmytro_Tashpikov",
     "foto_url": "../images/Dmytro_Tashpikov.jpg",
-    "github": "https://github.com/neodim84"
+    "github": "https://github.com/neodim84",
+    "telegramm": "#",
+    "linkidin": "#"
   },
 
   {
     "name": "Ievgen_Vorontsov",
     "foto_url": "../images/Ievgen_Vorontsov.jpeg",
-    "github": "https://github.com/Vorontsov1"
+    "github": "https://github.com/Vorontsov1",
+    "telegramm": "#",
+    "linkidin": "#"
   },
 
   {
     "name": "Khrystyna",
     "foto_url": "../images/Khrystyna.jpg",
-    "github": "..."
+    "github": "https://github.com/Khryyystyna",
+    "telegramm": "#",
+    "linkidin": "#"
   },
 
   {
     "name": "Oleksandr_Diachenko",
     "foto_url": "../images/Oleksandr_Diachenko.jpg",
-    "github": "https://github.com/Pallich"
+    "github": "https://github.com/Pallich",
+    "telegramm": "#",
+    "linkidin": "#"
   },
 
   {
     "name": "Oleksandr_Litvin",
     "foto_url": "../images/Oleksandr_Litvin.jpeg",
-    "github": "https://github.com/Oleksandr-Lytvyn"
+    "github": "https://github.com/Oleksandr-Lytvyn",
+    "telegramm": "#",
+    "linkidin": "#"
   },
 
   {
     "name": "Vitalii_Sapunov",
     "foto_url": "../images/Vitalii_Sapunov.jpg",
-    "github": "https://github.com/Vi7ality"
+    "github": "https://github.com/Vi7ality",
+    "telegramm": "#",
+    "linkidin": "#"
   },
 
   {
     "name": "Volodymyr_Kurov",
     "foto_url": "../images/Volodymyr_Kurov.jpeg",
-    "github": "https://github.com/vokur13"
+    "github": "https://github.com/vokur13",
+    "telegramm": "#",
+    "linkidin": "#"
   }
 ]
